@@ -1,0 +1,19 @@
+today we will learn about html basic first 
+<html>
+<body>
+
+</html>
+</body>
+
+we have learn how to start the html and close.
+now we will do html color Second
+<html>
+<body>
+
+<h1> style="background-color:gray;">gray</h1>
+
+run it
+
+</html>
+</body>
+                    thank you
